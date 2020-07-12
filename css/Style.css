@@ -1,0 +1,19 @@
+#btn1 {
+-fx-font: 15px "Arial";
+-fx-padding: 5;
+}
+
+#textArea{
+   -fx-background-image: url(img/s1200.jpeg);
+     -fx-background-size: 100%;
+}
+.text-area .viewport {
+    -fx-background-color: transparent;
+}
+
+.text-area .content {
+    -fx-background-color: transparent;
+}
+
+
+
